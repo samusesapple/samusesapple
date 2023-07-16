@@ -1,5 +1,5 @@
 ### 꾸준히 성장하는 개발자 성현관(Sam) 입니다. 🔭
-#### Hi there! I'm Sam who loves learning new things. <a href="gwansammy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red"/><a href="https://iossammy.tistory.com/"> <img src="https://img.shields.io/badge/Blog-green"/>
+#### Hi there! I'm Sam who loves learning new things. <a href="mailto:gwansammy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwansammy@gmail.com"/></a> <a href="https://iossammy.tistory.com/"> <img src="https://img.shields.io/badge/Blog-green"/>
 <br>
 
 ![Static Badge](https://img.shields.io/badge/iOS-%23000000)
