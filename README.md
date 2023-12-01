@@ -2,7 +2,7 @@
 
 <h3 align="center"> 꾸준히 도전하는 개발자 성현관 입니다. </h3>
 
-<h3 align="center"> Hi there, I'm Sam who is not afraid of challenges. </h3>
+<h3 align="center"> Hi there, I'm Sam who is not afraid of challenges. <br> <br>
 
   <a href="mailto:gwansammy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwansammy@gmail.com"/></a> <a href="https://iossammy.tistory.com/"> <img src="https://img.shields.io/badge/Blog-green"/> 
 <br>
