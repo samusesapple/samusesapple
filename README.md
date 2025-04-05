@@ -23,12 +23,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
-
-
-</h3>
-
-<h3 align='right'>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamusesapple%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23FF0101&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</h3>
-<br>
